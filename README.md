@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Luis%20David%20Yate&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Bienvenido&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+In+Training;Logic+%26+Software+Engineering;Building+Scalable+Solutions;FinAi+%26+Barber+Slot+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Luis+David+Yate+Pulido,+programador" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,21 +27,21 @@
 
 ## ► Sobre mí
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p>Desarrollador enfocado en la <b>arquitectura lógica</b> y la eficiencia técnica. Mi metodología se basa en:</p>
-      <ul>
-        <li><b>Resolución de problemas:</b> Algoritmos optimizados y escalables.</li>
-        <li><b>Diseño UI/UX:</b> Interfaces profesionales con estructuras CSS limpias.</li>
-        <li><b>Proyectos Activos:</b> Desarrollo de <i>FinAi</i> (Finanzas) y <i>Barber Slot</i> (Gestión).</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.tenor.com/rWx3fjRwcXIAAAAj/kid-goku.gif" width="160px">
-    </td>
-  </tr>
-</table>
+<p align="center">
+Desarrollador enfocado en la <b>arquitectura lógica</b> y la eficiencia técnica. Mi metodología se basa en:
+</p>
+
+<ul style="max-width: 600px; margin: 0 auto; display: block; text-align: left;">
+  <li>❖ **Resolución de problemas:** Algoritmos optimizados y escalables.</li>
+  <li>❖ **Diseño UI/UX:** Interfaces profesionales con estructuras CSS limpias.</li>
+  <li>❖ **Proyectos Activos:** Desarrollo de <i>FinAi</i> (Finanzas) y <i>Barber Slot</i> (Gestión).</li>
+</ul>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/the-coder-is-always-right/DB-Fan-Gif/raw/main/Goku_on_cloud.gif" width="220px">
+</p>
 
 ---
 
@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidYate777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYate777&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYate777&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165px"/>
 </p>
 
 <p align="center">
