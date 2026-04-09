@@ -4,9 +4,6 @@
   Desarrollador en formación enfocado en frontend, con bases sólidas en lógica y programación
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Construyendo+interfaces+con+lógica+clara;Aprendiendo+frontend+desde+la+base;Disciplina+%2B+Código+%3D+Evolución" />
-</p>
 
 <p align="center">
   <img src="https://media.tenor.com/rWx3fjRwcXIAAAAj/kid-goku.gif" width="200px">
