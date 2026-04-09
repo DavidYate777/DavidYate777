@@ -1,15 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b2a,70:1a1a2e,100:16213e&height=220&section=header&text=Luis%20David%20Yate&fontSize=50&fontColor=00d4ff&fontAlignY=40&desc=Software%20Developer%20%7C%20Backend%20Logic%20%26%20Problem%20Solving&descSize=17&descFontColor=8892b0&descAlignY=62&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<!-- ═══════════════════════════════════════════════
+     HEADER BANNER
+═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b2a,70:1a1a2e,100:16213e&height=240&section=header&text=Luis%20David%20Yate&fontSize=54&fontColor=00d4ff&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Logic%20%26%20Problem%20Solving&descSize=17&descFontColor=8892b0&descAlignY=58&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════
+     GOKU + GREETING (lado a lado)
+═══════════════════════════════════════════════ -->
 
 <br/>
 
-<img src="https://media1.tenor.com/m/P4x6M0sR4XcAAAAd/kid-goku.gif" width="180" alt="Kid Goku GIF"/>
+<table border="0" cellspacing="0" cellpadding="0" width="88%">
+<tr>
+<td align="left" valign="middle" width="68%">
 
-# 👋 Hey, I'm Luis David
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=00D4FF&background=00000000&center=false&vCenter=true&multiline=true&width=500&height=110&lines=%3E+python+main.py;%3E+Building+clean+%26+logical+code...;%3E+Currently+learning+every+day.;%3E+Open+to+junior+opportunities." alt="Typing animation"/>
 
-### Building clean logic, improving every commit, and learning by shipping.
+<br/><br/>
 
+### 👋 Hey, I'm Luis David
+
+**Building clean logic, improving every commit, and learning by shipping.**
+
+</td>
+<td align="center" valign="middle" width="32%">
+
+<img src="https://media.tenor.com/rWx3fjRwcXIAAAAj/kid-goku.gif" width="160" alt="Kid Goku on Flying Nimbus"/>
+
+<br/>
+<sub><i>riding toward the next bug fix 🐾</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- BADGES -->
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Junior%20Developer-00d4ff?style=for-the-badge&labelColor=0d1b2a)](mailto:davidyapul02@gmail.com)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Bogot%C3%A1-Colombia-f4a261?style=for-the-badge&labelColor=0d1b2a)](#)
 [![Focus](https://img.shields.io/badge/%F0%9F%92%BB%20Focus-Backend%20%26%20OOP-7c3aed?style=for-the-badge&labelColor=0d1b2a)](#)
@@ -22,23 +50,40 @@
 
 ```python
 dev = {
-    "name": "Luis David Yate Pulido",
-    "role": "Software Developer in progress",
-    "stack": ["Python", "C++", "JavaScript", "HTML", "CSS"],
-    "focus": ["Backend Logic", "OOP", "Data Structures"],
-    "status": "Open to opportunities",
-    "motto": "Code it. Break it. Fix it. Ship it."
+    "name"   : "Luis David Yate Pulido",
+    "role"   : "Software Developer in progress",
+    "stack"  : ["Python", "C++", "JavaScript", "HTML", "CSS"],
+    "focus"  : ["Backend Logic", "OOP", "Data Structures"],
+    "status" : "Open to opportunities 🟢",
+    "motto"  : "Code it. Break it. Fix it. Ship it."
 }
 ```
 
 I'm a software development student focused on **writing logical, maintainable, and structured code**.  
 I enjoy solving problems, understanding how systems work under the hood, and improving through real projects.
 
-- 🧠 Currently learning **Data Structures & Algorithms**
-- 🐍 Strengthening **Python & Object-Oriented Programming**
-- 🌐 Building stronger foundations in **Web Development**
-- ⚙️ Improving my workflow with **Git & GitHub**
-- 🚀 Interested in **junior developer opportunities**
+<table width="100%">
+<tr>
+<td width="50%">
+
+**Currently learning:**
+- 🧠 Data Structures & Algorithms
+- 🐍 Python & Object-Oriented Programming
+- ⚙️ Git flow & version control best practices
+- 🌐 Web Development fundamentals
+
+</td>
+<td width="50%">
+
+**What drives me:**
+- 🧩 Solving problems with clean logic
+- 📐 Writing code others can actually read
+- 🔁 Iterating fast and learning from mistakes
+- 🚀 Finding my first professional opportunity
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,8 +99,8 @@ I enjoy solving problems, understanding how systems work under the hood, and imp
 
 | Technology | Main Use | Current Focus |
 |:--|:--|:--|
-| **Python** | Logic, scripting, problem solving | OOP, cleaner structure |
-| **C++** | Structured programming, fundamentals | Practice & strengthening logic |
+| **Python** | Logic, scripting, problem solving | OOP & cleaner structure |
+| **C++** | Structured programming & fundamentals | Practice & strengthening logic |
 | **JavaScript** | Frontend interactivity | DOM & practical usage |
 | **HTML / CSS** | Web structure & styling | Cleaner UI foundations |
 | **Git & GitHub** | Version control & collaboration | Better workflows |
@@ -81,7 +126,7 @@ I enjoy solving problems, understanding how systems work under the hood, and imp
 
 ---
 
-## 🏆 Highlights
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -91,26 +136,39 @@ I enjoy solving problems, understanding how systems work under the hood, and imp
 
 ---
 
-## 📚 Learning & Growth
+## 📚 Education & Certifications
 
-I’m currently building my foundation through academic training and hands-on practice.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### Current Learning Areas
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Programming Logic & Clean Code
-- Git / GitHub Workflow
-- Web Development Fundamentals
+**🎓 Formation**
 
-### Education & Training
-- 🎓 **UNIMINUTO** — Tecnología en Informática *(2023 – Present)*
-- 🧪 **SENA** — Análisis y Desarrollo de Software *(2025 – Present)*
-- 📦 **SENA** — Técnico en Operaciones Logísticas *(2022 – 2023)*
+| Institution | Program | Period |
+|:--|:--|:--|
+| **UNIMINUTO** | Tecnología en Informática | 2023 → now |
+| **SENA** | Análisis y Desarrollo de Software | 2025 → now |
+| **SENA** | Técnico en Operaciones Logísticas | 2022 – 2023 |
 
-### Certifications
-- ✔ **Variables y Estructuras de Control en Python** — SENA
-- ✔ **Conceptualización del Lenguaje de Programación C++** — SENA
-- ✔ **Metodología de la Programación de los Sistemas Informáticos** — SENA
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+
+```
+✔  Estructuras de Control en Python
+   SENA · Oct – Nov 2024
+
+✔  Conceptualización del Lenguaje C++
+   SENA · Sep – Oct 2024
+
+✔  Metodología de la Programación
+   SENA · Jun – Jul 2024
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,7 +177,7 @@ I’m currently building my foundation through academic training and hands-on pr
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidYate777/DavidYate777/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DavidYate777/DavidYate777/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidYate777/DavidYate777/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake animation" src="https://raw.githubusercontent.com/DavidYate777/DavidYate777/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </picture>
@@ -133,7 +191,7 @@ I’m currently building my foundation through academic training and hands-on pr
 <div align="center">
 
 <a href="mailto:davidyapul02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a"/>
+  <img src="https://img.shields.io/badge/Gmail-davidyapul02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a"/>
 </a>
 &nbsp;
 <a href="https://github.com/DavidYate777">
@@ -148,6 +206,7 @@ I’m currently building my foundation through academic training and hands-on pr
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=130&section=footer&animation=twinkling" width="100%"/>
