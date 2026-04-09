@@ -1,82 +1,71 @@
+<h1 align="center">👨‍💻 Luis David Yate Pulido</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Bienvenido&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  Desarrollador en formación enfocado en frontend, con bases sólidas en lógica y programación
+</p>
+
+
+<p align="center">
+  <img src="https://media.tenor.com/rWx3fjRwcXIAAAAj/kid-goku.gif" width="200px">
+</p>
+
+---
+
+## 🧠 Sobre mí
+
+Soy un desarrollador en formación que construye desde la lógica, no solo desde la interfaz.
+
+Me enfoco en entender cómo funcionan las cosas antes de implementarlas. Mi aprendizaje gira alrededor de la *programación estructurada, la **resolución de problemas* y la construcción de código claro, organizado y escalable.
+
+Actualmente estoy desarrollando mis habilidades en frontend, conectando la lógica con la experiencia visual, y fortaleciendo mis bases en programación para crecer como desarrollador sólido.
+
+---
+
+## ⚙️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Luis+David+Yate+Pulido,+programador" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Enfoque-Frontend-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Base-Lógica%20y%20Programación-black?style=for-the-badge">
 </p>
+
+---
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidYate777&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidYate777&theme=tokyonight&hide_border=true" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYate777&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+</p>
+
+---
+
+## 🧩 Actualmente enfocado en
+
+- Mejorar mi lógica de programación y resolución de problemas  
+- Construcción de interfaces web limpias con HTML, CSS y JavaScript  
+- Comprender mejor la conexión entre frontend y backend  
+- Escribir código más eficiente, legible y estructurado  
+
+---
+
+## 📫 Contacto
 
 <p align="center">
   <a href="mailto:davidyapul02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contactar-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ► IA Insights ❖ Powered by Gemini
+## ⚡ Filosofía
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=❖+Analizando+patrones+de+código+en+repositorios...;❖+Optimizando+estructuras+y+lógica+frontend...;❖+Reflexión:+La+arquitectura+es+el+cimiento+del+diseño.;❖+Sugerencia:+Modularizar+componentes+en+FinAi." />
-</p>
-
----
-
-## ► Sobre mí
-
-<p align="center">
-Desarrollador enfocado en la <b>arquitectura lógica</b> y la eficiencia técnica. Mi metodología se basa en:
-</p>
-
-<ul style="max-width: 600px; margin: 0 auto; display: block; text-align: left;">
-  <li>❖ **Resolución de problemas:** Algoritmos optimizados y escalables.</li>
-  <li>❖ **Diseño UI/UX:** Interfaces profesionales con estructuras CSS limpias.</li>
-  <li>❖ **Proyectos Activos:** Desarrollo de <i>FinAi</i> (Finanzas) y <i>Barber Slot</i> (Gestión).</li>
-</ul>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/the-coder-is-always-right/DB-Fan-Gif/raw/main/Goku_on_cloud.gif" width="220px">
-</p>
-
----
-
-## ► Stack Tecnológico
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql,py,react,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Expertise-blue?style=flat-square&logo=react"> 
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=flat-square&logo=mysql"> 
-  <img src="https://img.shields.io/badge/Logic-C++%20%26%20Python-green?style=flat-square">
-</p>
-
----
-
-## ► Estadísticas de Rendimiento
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidYate777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYate777&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidYate777&theme=tokyonight&hide_border=true&width=400" height="165px" />
-</p>
-
----
-
-## ► Filosofía de Desarrollo
-
-> [!TIP]
-> ❖ **Principio de Evolución:** No se trata solo de escribir código, sino de entenderlo, optimizarlo y permitir que escale correctamente.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidYate777/DavidYate777/main/snake.svg" alt="Snake animation" />
-</p>
+> "No se trata solo de escribir código, sino de entenderlo, optimizarlo y hacerlo evolucionar."
