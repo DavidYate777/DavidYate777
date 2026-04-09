@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="200px">
+  <img src="https://media.tenor.com/rWx3fjRwcXIAAAAj/kid-goku.gif" width="200px">
 </p>
 
 ---
